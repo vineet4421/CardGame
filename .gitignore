@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CardGame/v16/.suo
+/CardGame/obj/Debug/CardGame.csprojAssemblyReference.cache
+/CardGame/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/CardGame/bin/Debug
+/CardGame/obj/Debug
